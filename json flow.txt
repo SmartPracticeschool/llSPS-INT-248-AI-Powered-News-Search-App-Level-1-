@@ -1,0 +1,33 @@
+[
+    {
+        "id": "3ce7a1a1.857a5e",
+        "type": "watson-discovery-v1",
+        "z": "554d3259.ead01c",
+        "name": "newsapp",
+        "environmentname": "",
+        "environmentId": "system",
+        "collectionId": "news-en",
+        "configurationname": "",
+        "configurationId": "",
+        "language_code": "en",
+        "collection_name": "",
+        "count": "1",
+        "passages": true,
+        "nlp_query": true,
+        "query": "",
+        "filter": "",
+        "aggregation": "",
+        "return": "",
+        "description": "",
+        "size": "LT",
+        "discovery-method": "query",
+        "service-endpoint": "https://api.eu-gb.discovery.watson.cloud.ibm.com/instances/1442b21a-c515-46cc-9406-deace5636e64",
+        "x": 460,
+        "y": 180,
+        "wires": [
+            [
+                "cc76a7c2.0e18d8"
+            ]
+        ]
+    }
+]
